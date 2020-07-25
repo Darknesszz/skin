@@ -1,7 +1,8 @@
 {
-    "title" : "New update available",
-    "message" : "- fixed some bugs\n - improved UI",
-    "versionCode" : 2,
+    "title" : "Force Update
+",
+    "message" : "- fixed some bugs\n - improved UI\<n - Developed by luuthar",
+    "versionCode" : 3,
     "force" : false,
     "link" : "https://jcsamples.000webhostapp.com/Update%20Sample/updateSample.apk"
 }
