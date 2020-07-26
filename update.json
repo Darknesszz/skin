@@ -3,6 +3,6 @@
 ",
     "message" : "- fixed some bugs\n - improved UI\n - Developed by luuthar",
     "versionCode" : 3,
-    "force" : false,
+    "force" : true,
     "link" : "https://jcsamples.000webhostapp.com/Update%20Sample/updateSample.apk"
 }
